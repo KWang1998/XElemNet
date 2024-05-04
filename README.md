@@ -1,7 +1,7 @@
 # XElemNet
-XElemNet: Towards Explainable AI for Deep Neural Networks in Materials Science
 This repository contains the source codes of using explainable artificial intelligence (XAI) techniques to analyze [ElemNet](https://github.com/NU-CUCIS/ElemNet). 
 To explore the interpretability of ElemNet, the interpretation of ElemNet is conducted through both post-hoc and transparency explanations.
+* Kewei Wang, Vishu Gupta, Claire Songhyun Lee, Yuwei Mao, Muhammed Nur Talha Kilic, Youjia Li, Zanhua Huang, Wei-keng Liao, Alok Choudhary, and Ankit Agrawal. XElemNet: Towards Explainable AI for Deep Neural Networks in Materials Science. Submitted to The International Conference on Contemporary Computing (IC3), Aug 2024.
 
 ## Source Files
 Here is a brief description of the codes:
