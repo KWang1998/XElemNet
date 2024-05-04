@@ -5,8 +5,8 @@ To explore the interpretability of ElemNet, the interpretation of ElemNet is con
 
 ## Source Files
 Here is a brief description of the codes:
-* [get_labels](): code for generating the labels from trained ElemNet
-* [xelemnet](): code for applying a suite of explainable AI (XAI) techniques for both post-hoc and transparency explanations to the ElemNet model
+* [get_labels](https://github.com/KWang1998/XElemNet/blob/main/get_labels.ipynb): code for generating the labels from trained ElemNet
+* [xelemnet](https://github.com/KWang1998/XElemNet/blob/main/xelemnet.ipynb): code for applying a suite of explainable AI (XAI) techniques for both post-hoc and transparency explanations to the ElemNet model
 
 ## Development team
 The code was developed by Kewei Wang from the CUCIS group at the Electrical and Computer Engineering Department at Northwestern University.
